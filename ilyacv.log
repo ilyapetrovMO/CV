@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.6.29)  9 JUL 2019 21:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.6.29)  9 JUL 2019 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -864,18 +864,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 21.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 21.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
 
+Underfull \hbox (badness 2080) in paragraph at lines 23--23
+[]\T2A/cmr/m/n/10.95 (+20) mySQL, CSS, git, bash,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 35.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 34.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -886,12 +890,12 @@ This may cause the page layout to be inconsistent, however.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
  (/home/gosha/latex/cv/ilyacv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
 Package rerunfilecheck Info: File `ilyacv.out' has not changed.
-(rerunfilecheck)             Checksum: 98B180DFA2D4BF5A7C6ECE2F983E116E;647.
+(rerunfilecheck)             Checksum: 4687BF5BB9608F267EFEC0E6D71F05A6;516.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -902,18 +906,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23826 strings out of 492623
- 392918 string characters out of 6135669
+ 23824 strings out of 492623
+ 392896 string characters out of 6135669
  489979 words of memory out of 5000000
- 27497 multiletter control sequences out of 15000+600000
+ 27496 multiletter control sequences out of 15000+600000
  556182 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,14n,65p,883b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,14n,65p,883b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm3583.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on /home/gosha/latex/cv/ilyacv.pdf (1 page, 125996 bytes).
+Output written on /home/gosha/latex/cv/ilyacv.pdf (1 page, 126541 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 17961 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 72 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 17953 words of extra memory for PDF output out of 20736 (max. 10000000)
 
